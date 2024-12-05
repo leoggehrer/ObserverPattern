@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Logic", "ObserverPattern.Logic\ObserverPattern.Logic.csproj", "{82C959E7-72DB-4F62-BCF9-5F8C3E6564D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.ConApp", "ObserverPattern.ConApp\ObserverPattern.ConApp.csproj", "{A2479921-51ED-4B65-BDD9-022A67D324C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{82C959E7-72DB-4F62-BCF9-5F8C3E6564D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C959E7-72DB-4F62-BCF9-5F8C3E6564D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C959E7-72DB-4F62-BCF9-5F8C3E6564D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2479921-51ED-4B65-BDD9-022A67D324C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2479921-51ED-4B65-BDD9-022A67D324C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2479921-51ED-4B65-BDD9-022A67D324C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2479921-51ED-4B65-BDD9-022A67D324C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

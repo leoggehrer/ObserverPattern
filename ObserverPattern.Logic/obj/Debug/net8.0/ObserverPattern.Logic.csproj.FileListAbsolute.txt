@@ -1,0 +1,12 @@
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/bin/Debug/net8.0/ObserverPattern.Logic.deps.json
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/bin/Debug/net8.0/ObserverPattern.Logic.dll
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/bin/Debug/net8.0/ObserverPattern.Logic.pdb
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.AssemblyInfoInputs.cache
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.AssemblyInfo.cs
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.csproj.CoreCompileInputs.cache
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.sourcelink.json
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.dll
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/refint/ObserverPattern.Logic.dll
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ObserverPattern.Logic.pdb
+/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/obj/Debug/net8.0/ref/ObserverPattern.Logic.dll
