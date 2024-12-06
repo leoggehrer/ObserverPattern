@@ -43,7 +43,7 @@ Bei der Implementierung wurde darauf geachtet, dass das Muster auch in einer **M
 
 ### Umsetzung mit Events
 
-Ein **Event** in **C#** ist ein spezielles Member einer Klasse oder eines Objekts, das verwendet wird, um Benachrichtigungen auszulösen. Events basieren auf Delegates und ermöglichen eine einfache und flexible Möglichkeit, eine Publish-Subscribe-Interaktion zwischen Objekten zu implementieren.
+Ein **Event** in **C#** ist ein spezielles Member einer Klasse oder eines Objekts, das verwendet wird, um Benachrichtigungen auszulösen. Events basieren auf Delegates und ermöglichen eine einfache und flexible Möglichkeit, eine Publish-Subscribe-Interaktion zwischen Objekten zu implementieren. Den Quellcode für  die "*Umsetztung mit Events*" finden Sie auf GitHub unter folgendem [Link](https://github.com/leoggehrer/ObserverPattern/tree/main/ObserverPattern.Logic/WithEvents).
 
 **Eigenschaften von Events:**
 
