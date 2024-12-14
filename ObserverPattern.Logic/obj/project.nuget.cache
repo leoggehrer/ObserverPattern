@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SApQ57j+YzA=",
+  "dgSpecHash": "w4zpnX/UljY=",
   "success": true,
-  "projectFilePath": "/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.Logic/ObserverPattern.Logic.csproj",
-  "expectedPackageFiles": [
-    "/Users/ggehrer/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/ggehrer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\gerhard.gehrer\\source\\repos\\leoggehrer\\ObserverPattern\\ObserverPattern.Logic\\ObserverPattern.Logic.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

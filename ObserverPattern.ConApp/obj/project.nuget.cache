@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92z47fzSRRY=",
+  "dgSpecHash": "ATeNSQNpBGc=",
   "success": true,
-  "projectFilePath": "/Users/ggehrer/source/repos/leoggehrer/ObserverPattern/ObserverPattern.ConApp/ObserverPattern.ConApp.csproj",
-  "expectedPackageFiles": [
-    "/Users/ggehrer/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/ggehrer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/ggehrer/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\gerhard.gehrer\\source\\repos\\leoggehrer\\ObserverPattern\\ObserverPattern.ConApp\\ObserverPattern.ConApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
